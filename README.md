@@ -4,7 +4,7 @@ Este proyecto reúne varios ejercicios cuyo objetivo es **aprender y practicar p
 
 ---
 
-## 🚀 Contenidos
+## CONTENIDOS
 
 ### Ejercicio 1
 - **Interfaz funcional `Operacion`**: define un método para aplicar operaciones matemáticas sobre dos enteros.  
@@ -31,7 +31,7 @@ Este proyecto reúne varios ejercicios cuyo objetivo es **aprender y practicar p
 
 ---
 
-## 🎯 Objetivos de aprendizaje
+## OBJETIVOS DE APRENDIZAJE
 - Comprender el uso de **interfaces funcionales** y la anotación `@FunctionalInterface`.
 - Diferenciar entre **clases anónimas** y **expresiones lambda**.
 - Aplicar **programación funcional** en operaciones matemáticas y manejo de colecciones.
@@ -40,7 +40,7 @@ Este proyecto reúne varios ejercicios cuyo objetivo es **aprender y practicar p
 
 ---
 
-## ▶️ Ejecución
+## EJECUCIÓN
 1. Compilar el proyecto:
 Ejecutar los distintos programas:
 
